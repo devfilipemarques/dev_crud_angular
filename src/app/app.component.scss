@@ -1,0 +1,55 @@
+.crud-spacer {
+  flex: 1 1 auto;
+}
+.custom {
+  background-color: #9154ff;
+  color: #fff;
+}
+.custom-search {
+  border-color: #fff;
+  color: #fff;
+}
+.white{
+  color: #fff;
+}
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #fff;
+  color: #3e1b7e;
+  font-size: 30px;
+}
+h1{
+  font-weight: bold;
+}
+p{
+  font-size: 13px;
+}
+.table-dev {
+  margin-top: 10px;
+}
+table {
+  width: 100%;
+}
+
+.mat-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+
+td, th {
+  width: 25%;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.demo-button-container{
+  position: relative;
+  margin: 0 auto;
+  text-align: right;
+  padding-top: 5%;
+  padding-bottom: 2%;
+}
